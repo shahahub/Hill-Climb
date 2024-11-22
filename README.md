@@ -1,7 +1,5 @@
 # Hill Climb
 
-## Introduction
-
 **Cheat Engine for Android** is a powerful and versatile application that allows users to modify and customize mobile games. Developed as an open-source memory scanner and editor, Cheat Engine enables players to tweak in-game parameters, such as currency, health, or levels, providing a unique way to explore gaming. Whether you're a developer testing your games or a player looking to enhance your experience, Cheat Engine for Android offers a suite of tools to take control.
 
 In this detailed guide, we’ll cover everything about Cheat Engine for Android, including its features, installation, usage, and the precautions you should take when using it.
