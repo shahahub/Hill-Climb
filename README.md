@@ -187,6 +187,3 @@ While technically possible, it is strongly discouraged due to the risk of bans a
 Cheat Engine for Android is a versatile tool that unlocks new possibilities for gamers and developers alike. While it offers powerful features for customization and debugging, users should exercise caution and respect the ethical boundaries of its usage. Whether you're exploring single-player games or testing your own creations, Cheat Engine provides a unique and valuable experience.
 
 Download Cheat Engine today to take control of your gaming adventures—but always use it responsibly!
-
----
-```
